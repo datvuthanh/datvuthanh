@@ -1,1 +1,1 @@
-### Hi I'm Dat Vu :) 
+### Loss.backward()
